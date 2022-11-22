@@ -1,4 +1,4 @@
 package main
 
-//fitur gopay
+//fitur gopay //codingan diperbaiki cukz
 //gopay aaauuuuu
